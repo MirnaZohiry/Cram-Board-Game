@@ -1,4 +1,4 @@
-SET teamname=Groupone
+SET teamname=Grouptwo
 javac -cp Cram.jar algorithms/%teamname%.java
 java -cp Cram.jar;. algorithms.%teamname%
 pause
